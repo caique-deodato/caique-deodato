@@ -1,6 +1,6 @@
 <h1 align="center">Olá, meu nome é Caique Deodato</h1>
 <h4 align="center">Desenvolvedor iniciante</h4>
-<h4 align="center"><i>Criando minhas próprias batalhas para não morrer na trincheira</i></h4>
+<h5 align="center"><i>Criando minhas próprias batalhas para não morrer na trincheira</i></h5>
 
 - 📖 Cursando Ciência da Computação (UNIP)
 
